@@ -1,2 +1,6 @@
-# softans-hub-master
-website
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
+"# softans-hub" 

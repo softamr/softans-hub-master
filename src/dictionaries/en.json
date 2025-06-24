@@ -1,0 +1,84 @@
+
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "services": "Services",
+      "clients": "Clients",
+      "about": "About Us",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "cta": "Get a Quote",
+    "language": "العربية"
+  },
+  "footer": {
+    "description": "Softans is your partner in digital transformation, offering cutting-edge software solutions tailored to your business needs.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "address": "123 Business Bay, Dubai, UAE",
+    "email": "info@softans.com",
+    "phone": "+971 4 123 4567",
+    "rights": "All rights reserved."
+  },
+  "homepage": {
+    "hero": {
+      "title": "Innovative Solutions for a Digital World",
+      "subtitle": "We build powerful ERP systems, stunning websites, and engaging blogs to help your business thrive in the modern landscape.",
+      "primaryCta": "Explore Our Services",
+      "secondaryCta": "Contact Us",
+      "image": "https://st3.depositphotos.com/1008648/19103/i/450/depositphotos_191033966-stock-photo-connections-system-global-world-view.jpg",
+      "imageHint": "abstract technology"
+    },
+    "services": {
+      "title": "Our Core Services",
+      "subtitle": "Delivering excellence and innovation in every project.",
+      "erp": {
+        "title": "Software & ERP Systems",
+        "description": "Custom management systems designed to streamline your operations and boost efficiency."
+      },
+      "websites": {
+        "title": "Professional Websites",
+        "description": "Creative and responsive web design to build a powerful online presence for your brand."
+      },
+      "blogs": {
+        "title": "High-Quality Blogs",
+        "description": "Engaging blog platforms built with the latest technologies to connect with your audience."
+      }
+    },
+    "industries": {
+      "title": "Industries We Serve",
+      "subtitle": "Providing specialized solutions for a diverse range of sectors."
+    },
+    "about": {
+      "title": "20+ Years of Excellence in Digital Innovation",
+      "description": "Since our inception, Softans has been dedicated to pushing the boundaries of technology. Our mission is to empower businesses with robust, scalable, and user-friendly digital solutions. We envision a world where technology seamlessly integrates with business, and we're here to build it.",
+      "cta": "Learn More About Us"
+    },
+    "clients": {
+      "title": "Trusted by Industry Leaders"
+    },
+    "cta": {
+      "title": "Ready to Start Your Project?",
+      "subtitle": "Let's build something amazing together. Contact us for a free consultation.",
+      "button": "Request a Proposal"
+    }
+  },
+  "contactPage": {
+    "title": "Get in Touch",
+    "subtitle": "We're here to help. Send us a message and we'll get back to you as soon as possible.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "service": "Service of Interest",
+      "message": "Your Message",
+      "submit": "Send Message"
+    },
+    "serviceOptions": {
+      "erp": "Software / ERP System",
+      "website": "Website Development",
+      "blog": "Blog Creation",
+      "other": "Other"
+    }
+  }
+}
